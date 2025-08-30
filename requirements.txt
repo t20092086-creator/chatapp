@@ -3,3 +3,4 @@ uvicorn[standard]
 python-socketio[asyncio]
 aiofiles
 aiohttp
+pywebpush
